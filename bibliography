@@ -1,0 +1,689 @@
+@BOOK{Olson65,
+   author = "M. Olson",
+   title = "The {L}ogic of {C}ollective {A}ction: {P}ublic goods and the theory of groups",
+   publisher = "Harvard University Press",
+   year = 1965
+   }
+
+@BOOK{Baland96,
+   author = "J.-M. Baland and J.-P. Platteau",
+   title = "Halting Degradation of Natural Resources",
+   publisher = "Oxford University Press",
+   year = 1996
+   }
+
+@ARTICLE{Miguel05,
+   author = "E. Miguel",
+   title = "Tribe or {N}ation? {N}ation building and public goods in {K}enya versus {T}anzania",
+   journal = "World Politics",
+   volume = 56,
+   number = 03,
+   pages = "328-362",
+   year = 2005
+   }
+
+@ARTICLE{Miguel04,
+   author = "E. Miguel and M. K. Gugerty",
+   title = "Ethnic {D}iversity, {S}ocial {S}anctions, and {P}ublic {G}oods in {K}enya",
+   journal = "Journal of Public Economics",
+   volume = 89,
+   number = "11-12",
+   pages = "2325--2368",
+   year = 2004
+   }
+
+@ARTICLE{Altonji05,
+   author = "J. G. Altonji and T. E. Elder and C. R. Taber",
+   title = "Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools",
+   journal = "Journal of Political Economy",
+   volume = 113,
+   number = "",
+   pages = "151-184",
+   year = 2005
+   }
+
+@ARTICLE{Nunn11,
+   author = "N. Nunn and L. Wantchekon",
+   title = "The {S}lave {T}rade and the {O}rigins of {M}istrust in {A}frica",
+   journal = "American Economic Review",
+   volume = 101,
+   number = 7,
+   pages = "3221-3252",
+   year = 2011
+   }
+
+@BOOK{Ostrom90,
+   author = "E. Ostrom",
+   title = "Governing the {C}ommons: The Evolution of Institutions for Collective Action",
+   publisher = "Cambridge University Press",
+   year = 1990
+   }
+
+@BOOK{Heckman81,
+   author = "J. J. Heckman",
+   title = "The Incidental Parameters Problem and the Problem of Initial Conditions in Estimating a Discrete Time-Discrete Data Stochastic Process. In: Manski, C.F., McFadden, D. (Eds.), Structural Analysis of Discrete Data with Econometric Applications ",
+   publisher = "The MIT Press",
+   year = 1981
+   }
+
+@ARTICLE{Hardin68,
+   author = "G. Hardin",
+   title = "The {T}ragedy of the {C}ommons",
+   journal = "Science",
+   volume = 162,
+   number = "",
+   pages = "1243-1248",
+   year = 1968
+   }
+
+@ARTICLE{Neary01,
+   author = "P. Neary",
+   title = "Of hype and hyperbola: introducing the new economic geography",
+   journal = "Journal of Economic Literature",
+   volume = 39,
+   number = 2,
+   pages = "536 - 561",
+   year = 2001
+   }
+
+
+@ARTICLE{Krugman91,
+   author = "P. Krugman",
+   title = "Increasing returns and economic geography",
+   journal = "Journal of Political Economy",
+   volume = 99,
+   number = 3,
+   pages = "483 - 499",
+   year = 1991
+   }
+
+@BOOK{AP09,
+   author = "J. D. Angrist and J.-S. Pishcke",
+   title = "Mostly {H}armless {E}conometrics: {A}n {E}mpiricist's {C}ompanion",
+   publisher = "Princeton University Press",
+   year = 2009
+   }
+
+@BOOK{Wooldridge02,
+   author = "J. M. Wooldridge",
+   title = "Econometric Analysis of Cross Section and Panel Data",
+   publisher = "The MIT Press",
+   year = 2002
+   }
+
+@BOOK{DM04,
+   author = "R. Davidson and J. G. MacKinnon",
+   title = "Econometric Theory and Methods",
+   publisher = "Oxford University Press",
+   year = 2004
+   }
+
+@ARTICLE{Anderson51,
+   author = "T. W. Anderson",
+   title = "Estimating linear restrictions on regression coefficients for multivariate normal distributions",
+   journal = "Annals of Mathematical Statistics",
+   volume = 22,
+   number = "",
+   pages = "327-51",
+   year = 1951
+   }
+
+@ARTICLE{CD93,
+   author = "J.G. Cragg and S.G. Donald",
+   title = "Testing Identfiability and Specification in Instrumental Variables Models",
+   journal = "Econometric Theory",
+   volume = 9,
+   number = "",
+   pages = "222-240",
+   year = 1993
+   }
+
+
+@BOOK{SY05,
+   author = "J. H. Stock and M. Yogo",
+   title = "Testing for {Weak Instruments in Linear IV Regression}. {I}n: {I}dentification and inference for econometric models: essays in honnour of Thomas Rothenberg, ed. by D. W. Andrews and J. H. Stock",
+   publisher = "Cambridge University Press",
+   year = 2005
+   }
+
+@ARTICLE{Hirschman64,
+   author = "A. O. Hirschman",
+   title = "The paternity of an index",
+   journal = "The {A}merican {E}conomic {R}eview",
+   volume = 54,
+   number = 5 ,
+   pages = "761",
+   year = 1964
+   }
+
+
+
+@ARTICLE{Newey87,
+   author = "W. K. Newey",
+   title = "Efficient estimation of limited dependent variable models with endogenous explanatory variables",
+   journal = "Journal of {E}conometrics",
+   volume = 36,
+   number = 3,
+   pages = "231-250",
+   year = 1987
+   }
+
+@ARTICLE{Prokopy05,
+   author = "L. S. Prokopy",
+   title = "The Relationship between Participation and Project Outcomes: Evidence from Rural Water Supply Projects in India",
+   journal = "World {D}evelopment",
+   volume = 33,
+   number = 11,
+   pages = "1801-1819",
+   year = 2005
+   }
+
+
+@ARTICLE{Boadway07,
+   author = "R. Boadway and Z. Song and J.-F. Tremblay",
+   title = "Commitment and matching contributions to public goods",
+   journal = "Journal of {P}ublic {E}conomics",
+   volume = 91,
+   number = 9,
+   pages = "1664-1683",
+   year = 2007
+   }
+
+@ARTICLE{Gerber09,
+   author = "A. Gerber and P. C. Wichardt",
+   title = "Providing public goods in the absence of strong institutions",
+   journal = "Journal of {P}ublic {E}conomics",
+   volume = 93,
+   number = "3-4",
+   pages = "429-439",
+   year = 2009
+   }
+
+@ARTICLE{Andreoni08,
+   author = "J. Andreoni and R. Croson",
+   title = "Partners versus Strangers: Random Rematching in Public Goods Experiments",
+   journal = "Handbook of {E}xperimental {E}conomics {R}esults",
+   volume = 1,
+   number = "",
+   pages = "776-783",
+   year = 2008
+   }
+
+@ARTICLE{Gachter10,
+   author = "S. Gächter and D. Nosenzo and E. Renner and M. Sefton",
+   title = "Sequential vs. simultaneous contributions to public goods: {E}xperimental evidence",
+   journal = "Journal of {P}ublic {E}conomics",
+   volume = 94,
+   number = "7-8",
+   pages = "512-522",
+   year = 2010
+   }
+
+@ARTICLE{Fehr00,
+   author = "E. Fehr and S. Gächter",
+   title = "Cooperation and punishment in public goods experiments",
+   journal = "American {E}conomic {R}eview",
+   volume = 90,
+   number = "",
+   pages = "980-994",
+   year = 2000
+   }
+
+@ARTICLE{Mutuswami04,
+   author = "S. Mutuswami and E. Winter",
+   title = "Efficient mechanisms for multiple public goods",
+   journal = "Journal of {P}ublic {E}conomics",
+   volume = 88,
+   number = "3-4",
+   pages = "629-644",
+   year = 2004
+   }
+
+@ARTICLE{Schultz01,
+   author = "C. Schultz and T. Sjostrom",
+   title = "Local public goods, debt and migration",
+   journal = "Journal of {P}ublic {E}conomics",
+   volume = 80,
+   number = 2,
+   pages = "313-337",
+   year = 2001
+   }
+
+@ARTICLE{Cremer03,
+   author = "H. Cremer and J.-J. Laffont",
+   title = "Public goods with costly access",
+   journal = "Journal of {P}ublic {E}conomics",
+   volume = 87,
+   number = "9-10",
+   pages = "1985-2012",
+   year = 2003
+   }
+
+
+@ARTICLE{Alesina99,
+   author = "A. Alesina and R. Baqir and W. Easterly",
+   title = "Public Goods and Ethnic Divisions",
+   journal = "The {Q}uarterly {J}ournal of {E}conomics",
+   volume = 114,
+   number = 4,
+   pages = "1243-1284",
+   year = 1999
+   }
+
+@ARTICLE{Habyarimana07,
+   author = "J. Habyarimana and M. Humphreys and D. N. Posner and J. M. Weinstein",
+   title = "Why does ethnic diversity undermine public goods provision?",
+   journal = "American {P}olitical {S}cience {R}eview",
+   volume = 101,
+   number = 4,
+   pages = "709-725",
+   year = 2007
+   }
+
+
+@ARTICLE{Kremer11,
+   author = "M. Kremer and J. Leino and E. Miguel and A. P. Zwane",
+   title = "Spring Cleaning: Rural water impacts, valuation and property rights institutions",
+   journal = "The {Q}uarterly {J}ournal of {E}conomics",
+   volume = 126,
+   number = 1,
+   pages = "145-205",
+   year = 2011
+   }
+
+@ARTICLE{Anderson03,
+   author = "J. E. Anderson and E. van Wincoop",
+   title = "Gravity with {G}ravitas",
+   journal = "American {E}conomic {R}eview",
+   volume = 93,
+   number = "",
+   pages = "170-192",
+   year = 2003
+   }
+
+@ARTICLE{Redding04,
+   author = "S. Redding and A. J. Venables",
+   title = "Economic Geography and International Inequality",
+   journal = "Journal of {I}nternational {E}conomics",
+   volume = 62,
+   number = 1,
+   pages = "53-82",
+   year = 2004
+   }
+
+
+
+@ARTICLE{Grogger11,
+   author = "J. Grogger and Gordon H. Hanson",
+   title = "Income maximisation and the selection and sorting of international migrants",
+   journal = "Journal of {D}evelopment {E}conomics",
+   volume = 95,
+   number = 1,
+   pages = "42-57",
+   year = 2011
+   }
+
+@ARTICLE{Helpman04,
+   author = "E. Helpman and M. J. Melitz and S. R. Yeaple",
+   title = "Export Versus FDI with Heterogeneous Firms",
+   journal = "American {E}conomic {R}eview",
+   volume = 94,
+   number = "",
+   pages = "300-316",
+   year = 2004
+   }
+
+@ARTICLE{Kleinert10,
+   author = "J. Kleinert and F. Toubal",
+   title = "Gravity for {FDI}",
+   journal = "Review of {I}nternational {E}conomics",
+   volume = 18,
+   number = 1,
+   pages = "1-13",
+   year = 2010
+   }
+
+@ARTICLE{Bergstrand07,
+   author = "J. H. Bergstrand and P. Egger",
+   title = "A {Knowledge- and Physical-capital Model of International Trade Flows, Foreign Direct Investment and Multinational Enterprises}",
+   journal = "Journal of {I}nternational {E}conomics",
+   volume = 73,
+   number = "",
+   pages = "278-308",
+   year = 2007
+   }
+
+@ARTICLE{Martin04,
+   author = "P. Martin and H. Rey",
+   title = "{Financial Super-markets: Size Matters for Asset Trade}",
+   journal = "Journal of {I}nternational {E}conomics",
+   volume = 64,
+   number = "",
+   pages = "335-361",
+   year = 2004
+   }
+
+@ARTICLE{Cipollina10,
+   author = "M. Cipollina and L. Salvatici",
+   title = "{Reciprocal Trade Agreements in Gravity Models: A Meta-Analysis}",
+   journal = "Review of {I}nternational {E}conomics",
+   volume = 18,
+   number = 1,
+   pages = "63-80",
+   year = 2010
+   }
+
+@ARTICLE{Anderson10,
+   author = "J. E. Anderson",
+   title = "The {Gravity Model}",
+   journal = "NBER Working Paper Number 16576",
+   volume = "",
+   number = "",
+   pages = "",
+   year = 2010
+   }
+
+@ARTICLE{Conley10,
+   author = "T. G. Conley and C. R. Udry",
+   title = "Learning about a {New Technology: Pineapple in Ghana}",
+   journal = "The {A}merican {E}conomic {R}eview",
+   volume = 100,
+   number = 1,
+   pages = "35-69",
+   year = 2010
+   }
+
+@ARTICLE{Foster95,
+   author = "A. D. Foster and M. R. Rosenzweig",
+   title = "{Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture}",
+   journal = "Journal of {P}olitical {E}conomy",
+   volume = 103,
+   number = 6,
+   pages = "1176-1209",
+   year = 1995
+   }
+
+@ARTICLE{Munshi04,
+   author = "K. Munshi",
+   title = "Social learning in a heterogeneous population: social learning in the Indian green revolution",
+   journal = "Journal of {D}evelopment {E}conomics",
+   volume = 73,
+   number = "",
+   pages = "185-213",
+   year = 2004
+   }
+
+
+@ARTICLE{Bandiera06,
+   author = "O. Bandiera and I. Rasul",
+   title = "Social {Networks and Technology Adoption in Northern Mozambique}",
+   journal = "The {E}conomic {J}ournal",
+   volume = 116,
+   number = 514,
+   pages = "869-902",
+   year = 2006
+   }
+
+
+
+@ARTICLE{CIDA00,
+   author = "R. Nampusuor and S. Mathisen",
+   title = "Report on The {Performance of {A}fridev and {N}ira Handpumps on the Upper Regions Community Water Project (COWAP) {G}hana}",
+   journal = "COWAP Field Paper 27",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2000
+   }
+
+@ARTICLE{WaterAid12,
+   author = "{WaterAid}",
+   title = "Water point mapping database",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2012
+   }
+
+@ARTICLE{WaterAid11,
+   author = "{WaterAid}",
+   title = "Sustainability {F}ramework",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2011
+   }
+
+@ARTICLE{WaterAid09,
+   author = "{WaterAid}",
+   title = "Women's {I}ssues",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2012
+   }
+
+@ARTICLE{RWSN11,
+   author = "R. W. Schweitzer and J. R. Mihelcic",
+   title = "Community {Managed Rural Water Systems}: What makes them Sustainable?",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2011
+   }
+
+@ARTICLE{Beine09,
+   author = "M. Beine and F. Docquier and C. Ozden",
+   title = "Diasporas",
+   journal = "World {B}ank",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2009
+   }
+
+@ARTICLE{LSMS08,
+   author = "{World Bank}",
+   title = "Living {Standards Measurement Survey - Integrated Survey on Agriculture (LSMS-ISA)}",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = "2007-08"
+   }
+
+@ARTICLE{ILRI07,
+   author = "{International Livestock Research Institute (ILRI)}",
+   title = "Tanzania Soil Type Data",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2007
+   }
+
+@ARTICLE{NBS02,
+   author = "{Tanzania National Bureau of Statistics}",
+   title = "Tanzanian National Census",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2002
+   }
+
+@ARTICLE{CRS09,
+   author = "V. W. Uhl and J. A. Baron and W. W. Davis and D. B. Warner and C. C. Seremet",
+   title = "Groundwater {Development: Basic Concepts for Expanding CRS Water Programs}",
+   journal = "Catholic {R}elief {S}ervices",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2009
+   }
+
+@ARTICLE{RWSN07,
+   author = "{Rural Water Supply Network (RWSN)}",
+   title = "Installation and {Maintenance Manual
+for the Afridev Handpump}",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2007
+   }
+
+@ARTICLE{UNICEF10,
+   author = "{UNICEF}",
+   title = "Progress on {Sanitation and Drinking-Water, 2010 Update}",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2010
+   }
+
+@ARTICLE{WaterAid12,
+   author = "{WaterAid}",
+   title = "Water point mapping database",
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2012
+   }
+
+@article{foster2013,
+  title={Predictors of Sustainability for Community-Managed Handpumps in Sub-Saharan Africa: Evidence from Liberia, Sierra Leone, and Uganda},
+  author={Foster, Tim},
+  journal={Environmental science \& technology},
+  volume={47},
+  number={21},
+  pages={12037--12046},
+  year={2013},
+  publisher={ACS Publications}
+}
+
+@ARTICLE{oxford2014,
+   author = "{Hope, Rob and Thomson, Patrick and Koehler, Johanna and Foster, Tim and Thomas, Mike}",
+   title = {From Rights to Results in Rural Water Services – Evidence from Kyuso, Kenya. Smith School of Enterprise and the Environment},
+   journal = "Working Paper, Water Programme, Oxford University",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2014
+   }
+
+@ARTICLE{Moriarty2013,
+   author = "{Moriarty, P. and Smits, S. and Butterworth, J. and Franceys, R}",
+   title = {Trends in Rural Water Supply: Towards a Service Delivery Approach},
+   journal = "Water Alternatives",
+   volume = "6",
+   number ="3" ,
+   pages = "329-349",
+   year = 2013
+   }
+
+@ARTICLE{Haysom2006,
+   author = "{Haysom, Alexia}",
+   title = {A STUDY OF THE FACTORS AFFECTING SUSTAINABILITY OF RURAL WATER SUPPLIES IN TANZANIA },
+   journal = "",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2006
+   }
+
+@ARTICLE{Carter2010,
+   author = {Carter, Richard C and Harvey, Erik and Casey, Vincent},
+   title = {User financing of rural handpump water services},
+   journal = "IRC Symposium 2010",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2010
+   }
+
+@BOOK{Harvey2004,
+   author = {Harvey, Peter and Reed, Bob},
+   title = {Rural Water Supply in Africa: Building Blocks for Handpump Sustainability},
+   publisher = "Water, Engineering and Development Centre, Loughborough University",
+   year = 2004
+   }
+
+@BOOK{Lockwood2011,
+   author = {Lockwood, Harold and Smits, Stef},
+   title = {Supporting Rural Water Supply Moving towards a Service Delivery Approach},
+   publisher = "Practical Action Publishing",
+   year = 2011
+   }
+
+@ARTICLE{Sansom2009,
+   author = {Sansom, K. and Koestler, L},
+   title = {African Handpump Market Mapping Study: Summary Report for UNICEF WASH Section and Supply Division},
+   journal = "UNICEF, New York",
+   volume = "",
+   number ="" ,
+   pages = "",
+   year = 2009
+   }
+
+@article{banerjee2007,
+  title={Public action for public goods},
+  author={Banerjee, Abhijit and Iyer, Lakshmi and Somanathan, Rohini},
+  journal={Handbook of development economics},
+  volume={4},
+  pages={3117--3154},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{alesina2000,
+  title={Participation in heterogeneous communities},
+  author={Alesina, Alberto and La Ferrara, Eliana},
+  journal={The quarterly journal of economics},
+  volume={115},
+  number={3},
+  pages={847--904},
+  year={2000},
+  publisher={Oxford University Press}
+}
+
+@article{banerjee2001,
+  title={Inequality, control rights, and rent seeking: sugar cooperatives in Maharashtra},
+  author={Banerjee, Abhijit and Mookherjee, Dilip and Munshi, Kaivan and Ray, Debraj},
+  journal={Journal of Political Economy},
+  volume={109},
+  number={1},
+  pages={138--190},
+  year={2001},
+  publisher={JSTOR}
+}
+
+@article{emerick2013,
+  title={The Efficiency of Trading in Social Networks: Experimental Measures from India},
+  author={Emerick, Kyle},
+  year={2013}
+}
+
+@techreport{acemoglu2014,
+  title={State Capacity and Economic Development: A Network Approach},
+  author={Acemoglu, Daron and Garc{\'\i}a-Jimeno, Camilo and Robinson, James A},
+  year={2014},
+  institution={National Bureau of Economic Research}
+}
+
+@article{bramoulle2009,
+  title={Identification of peer effects through social networks},
+  author={Bramoull{\'e}, Yann and Djebbari, Habiba and Fortin, Bernard},
+  journal={Journal of econometrics},
+  volume={150},
+  number={1},
+  pages={41--55},
+  year={2009},
+  publisher={Elsevier}
+}
